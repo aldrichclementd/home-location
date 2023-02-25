@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "timestamp": 1677360776062,
+  "index": "https://aldrichclementd.github.io/home-location/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://aldrichclementd.github.io/home-location/favicon.ico",
+        "https://aldrichclementd.github.io/home-location/index.html",
+        "https://aldrichclementd.github.io/home-location/main.da14a9e9d54fe40a.js",
+        "https://aldrichclementd.github.io/home-location/manifest.webmanifest",
+        "https://aldrichclementd.github.io/home-location/polyfills.6e370c926a094817.js",
+        "https://aldrichclementd.github.io/home-location/runtime.71e2f189964e3b71.js",
+        "https://aldrichclementd.github.io/home-location/styles.4b0ced38e2ac4bdd.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://aldrichclementd.github.io/home-location/assets/3_1f0ZGOjIY.png",
+        "https://aldrichclementd.github.io/home-location/assets/banner.png",
+        "https://aldrichclementd.github.io/home-location/assets/icons/icon-128x128.png",
+        "https://aldrichclementd.github.io/home-location/assets/icons/icon-144x144.png",
+        "https://aldrichclementd.github.io/home-location/assets/icons/icon-152x152.png",
+        "https://aldrichclementd.github.io/home-location/assets/icons/icon-192x192.png",
+        "https://aldrichclementd.github.io/home-location/assets/icons/icon-384x384.png",
+        "https://aldrichclementd.github.io/home-location/assets/icons/icon-512x512.png",
+        "https://aldrichclementd.github.io/home-location/assets/icons/icon-72x72.png",
+        "https://aldrichclementd.github.io/home-location/assets/icons/icon-96x96.png",
+        "https://aldrichclementd.github.io/home-location/assets/logo.png",
+        "https://aldrichclementd.github.io/home-location/assets/pexels-theo-decker-5448171 1.png",
+        "https://aldrichclementd.github.io/home-location/assets/star.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://aldrichclementd.github.io/home-location/assets/3_1f0ZGOjIY.png": "bf0bcf5201c3d1c027ce1daf26b7fac08744e2a4",
+    "https://aldrichclementd.github.io/home-location/assets/banner.png": "b209961670a941fe42f47859a02cc5746ef9c291",
+    "https://aldrichclementd.github.io/home-location/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://aldrichclementd.github.io/home-location/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://aldrichclementd.github.io/home-location/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://aldrichclementd.github.io/home-location/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://aldrichclementd.github.io/home-location/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://aldrichclementd.github.io/home-location/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://aldrichclementd.github.io/home-location/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://aldrichclementd.github.io/home-location/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://aldrichclementd.github.io/home-location/assets/logo.png": "294d0a6de66373081975a04a806298e42e14ef99",
+    "https://aldrichclementd.github.io/home-location/assets/pexels-theo-decker-5448171 1.png": "d27fc7bc68cab0c45e90b56d602fc526f165e8dd",
+    "https://aldrichclementd.github.io/home-location/assets/star.svg": "80f2f09f1f1088633435f9dbabbb4c6dcb29a819",
+    "https://aldrichclementd.github.io/home-location/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://aldrichclementd.github.io/home-location/index.html": "8da34076dbe210ae4fcf5e4930172f26e31f28d8",
+    "https://aldrichclementd.github.io/home-location/main.da14a9e9d54fe40a.js": "fba08297579c098f191a1b283ee569255d8f06a3",
+    "https://aldrichclementd.github.io/home-location/manifest.webmanifest": "fa6a6150b356efadd3186676a414fadeef2a6ceb",
+    "https://aldrichclementd.github.io/home-location/polyfills.6e370c926a094817.js": "53825a848b18955c64f1e6cbac4a2e68670cc853",
+    "https://aldrichclementd.github.io/home-location/runtime.71e2f189964e3b71.js": "4409bdc5ab5d7d800894207f29bd4787fdf1166c",
+    "https://aldrichclementd.github.io/home-location/styles.4b0ced38e2ac4bdd.css": "bc4420f12398d2763b26a391ceca37988dc739a2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
